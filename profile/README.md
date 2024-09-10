@@ -1,6 +1,10 @@
 # Giới Thiệu
 Đồ án môn học: Phát triển phần mềm ứng dụng thông minh
 
+## Tên đề tài
+
+###Phần mềm bán hàng
+
 ## Thành Viên
 
 | Tên thành viên             | Chức vụ                                                                |
@@ -11,9 +15,10 @@
 
 
 ## Công nghệ sử dụng
-Application: Winform C#
 
 **Database:** SQL Server
+
+Application: Winform C#
 
 Website:
 
