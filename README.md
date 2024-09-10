@@ -42,6 +42,7 @@ Website:
 - Tìm kiếm sản phẩm theo phân loại, theo giá;
 
 - Tạo giỏ hàng, đặt hàng online, thanh toán, xem lịch sử mua hàng;
+
 Winform:
 - Quản lý sản phẩm, phân loại sản phẩm;
 
