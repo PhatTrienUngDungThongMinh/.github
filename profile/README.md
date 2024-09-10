@@ -1,5 +1,5 @@
 # Giới Thiệu
-Đồ án môn học: Phát triển phần mền ứng dụng thông minh
+Đồ án môn học: Phát triển phần mềm ứng dụng thông minh
 
 ## Thành Viên
 
