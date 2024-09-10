@@ -1,9 +1,9 @@
 # Giới Thiệu
 Đồ án môn học: Phát triển phần mềm ứng dụng thông minh
 
-## Tên đề tài
+# Tên đề tài
 
-###Phần mềm bán hàng
+Phần mềm bán hàng
 
 ## Thành Viên
 
@@ -38,7 +38,7 @@ Hệ thống quản lý kinh doanh được thiết kế để cung cấp một 
 
 #### Yêu cầu các chức năng
 
-**AI:** Gợi ý sản phẩm tự động
+**AI:** sử dụng thuật toán tìm kiếm hình ảnh sản phẩm
 
 Website:
 
