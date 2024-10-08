@@ -11,7 +11,7 @@ Phần mềm bán hàng
 | ----------------- | ------------------------------------------------------------------ |
 | Trần Văn Tình |Nhóm trưởng |
 | Nguyễn Văn Huy | Thành viên |
-| Nguyễn Công Dũng | Thành viên |
+
 
 
 ## Công nghệ sử dụng
@@ -68,7 +68,7 @@ Application:
 | ----------------- | ------------------------------------------------------------------ |
 | Trần Văn Tình | |
 | Nguyễn Văn Huy |  |
-| Nguyễn Công Dũng |  |
+
 
 ## Sản phẩm tham khảo
 
